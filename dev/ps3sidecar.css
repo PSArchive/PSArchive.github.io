@@ -1,0 +1,72 @@
+body
+{
+   background-color: transparent;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+input:focus, textarea:focus, select:focus
+{
+   outline: none;
+}
+#Shape11
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Shape11
+{
+   filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.20));
+}
+#InlineFrame2
+{
+   border: 0px solid #C0C0C0;
+   border-radius: 0px;
+   margin: 0;
+}
+#Shape13
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#Shape13
+{
+   filter: drop-shadow(3px 3px 6px rgba(0,0,0,0.20));
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
