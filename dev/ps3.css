@@ -44,11 +44,6 @@ input:focus, textarea:focus, select:focus
    width: 100%;
    z-index: 99999;
 }
-#Shape15
-{
-   border-width: 0;
-   vertical-align: top;
-}
 #wb_Image10
 {
    vertical-align: top;
