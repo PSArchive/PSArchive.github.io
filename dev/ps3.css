@@ -35,15 +35,6 @@ input:focus, textarea:focus, select:focus
 {
    outline: none;
 }
-#preloader
-{
-   background: #FFFFFF url("images/loading.gif") no-repeat center center;
-   bottom: 0;
-   position: fixed;
-   top: 0;
-   width: 100%;
-   z-index: 99999;
-}
 #wb_Image10
 {
    vertical-align: top;
