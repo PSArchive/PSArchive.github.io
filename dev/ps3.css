@@ -215,12 +215,6 @@ input:focus, textarea:focus, select:focus
    width: 100%;
    height: 100%;
 }
-#InlineFrame2
-{
-   border: 0px solid #C0C0C0;
-   border-radius: 0px;
-   margin: 0;
-}
 #wb_Text3 
 {
    background-color: transparent;
@@ -602,4 +596,10 @@ input:focus, textarea:focus, select:focus
    top: 0;
    width: 100%;
    height: 100%;
+}
+#InlineFrame2
+{
+   border: 0px solid #C0C0C0;
+   border-radius: 0px;
+   margin: 0;
 }
