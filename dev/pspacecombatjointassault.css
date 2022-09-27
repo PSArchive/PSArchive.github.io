@@ -222,37 +222,6 @@ input:focus, textarea:focus, select:focus
 {
    text-align: left;
 }
-#Shape2
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#Shape1
-{
-   border-width: 0;
-   vertical-align: top;
-}
-#wb_Image1
-{
-   vertical-align: top;
-}
-#Image1
-{
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#InlineFrame1
-{
-   border: 0px solid #C0C0C0;
-   border-radius: 0px;
-   margin: 0;
-}
 #wb_Text6 
 {
    background-color: transparent;
