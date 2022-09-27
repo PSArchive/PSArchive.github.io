@@ -27,15 +27,20 @@ input:focus, textarea:focus, select:focus
 {
    outline: none;
 }
-#preloader
+#wb_Image1
 {
-   background: #FFFFFF url("images/rolling-dots.gif") no-repeat center center;
-   bottom: 0;
-   opacity: 0;
-   position: fixed;
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
    top: 0;
    width: 100%;
-   z-index: 99999;
+   height: 100%;
 }
 #Shape1
 {
