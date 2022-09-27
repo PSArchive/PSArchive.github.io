@@ -1,6 +1,10 @@
 body
 {
-   background-color: transparent;
+   background-color: #A0C0FF;
+   background-image: url('images/wall2.png');
+   background-attachment: scroll;
+   background-position: left top;
+   background-repeat: repeat;
    color: #000000;
    font-family: Arial;
    font-weight: normal;
