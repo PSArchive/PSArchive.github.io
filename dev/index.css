@@ -673,65 +673,6 @@ input:focus, textarea:focus, select:focus
 {
    background-color: #000000;
 }
-#wb_Carousel1 .carousel-control-next, #wb_Carousel1 .carousel-control-prev
-{
-   position: absolute;
-   top: 0;
-   left: 0;
-   color: #000000;
-   cursor: pointer;
-   text-align: center;
-   opacity: 0.5;
-}
-#wb_Carousel1 .carousel-control-next-icon, #wb_Carousel1 .carousel-control-prev-icon 
-{
-   display: inline-block;
-   width: 20px;
-   height: 20px;
-   background: transparent no-repeat center center;
-   background-size: 100% 100%;
-}
-#wb_Carousel1 .carousel-control-next:focus, #wb_Carousel1 .carousel-control-next:hover, #wb_Carousel1 .carousel-control-prev:focus, #wb_Carousel1 .carousel-control-prev:hover 
-{
-   color: #000000;
-   text-decoration: none;
-   outline: 0;
-   opacity: .9;
-}
-#wb_Carousel1 .carousel-control-prev-icon 
-{
-   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000000' viewBox='0 0 8 8'%3E%3Cpath d='M4 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
-}
-#wb_Carousel1 .carousel-control-next-icon 
-{
-   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000000' viewBox='0 0 8 8'%3E%3Cpath d='M1.5 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
-}
-#Carousel1_back
-{
-   position: absolute;
-   left: 4px;
-   top: 46%;
-   width: 20px;
-   height: 20px;
-   z-index: 999;
-}
-#Carousel1_next
-{
-   position: absolute;
-   right: 4px;
-   top: 46%;
-   width: 20px;
-   height: 20px;
-   z-index: 999;
-}
-#Carousel1_back img, #Carousel1_next img
-{
-   border-width: 0;
-}
-#Carousel1_back a, #Carousel1_next a
-{
-   cursor: pointer;
-}
 #wb_Image14
 {
    vertical-align: top;
@@ -941,20 +882,6 @@ input:focus, textarea:focus, select:focus
    width: 100%;
    height: 100%;
 }
-#wb_Text10 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text10 div
-{
-   text-align: left;
-}
 #wb_Image16
 {
    vertical-align: top;
@@ -1035,4 +962,18 @@ input:focus, textarea:focus, select:focus
    width: 100%;
    height: 100%;
    border-width: 0;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text10 div
+{
+   text-align: left;
 }
